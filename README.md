@@ -27,4 +27,4 @@ git remote add origin https://github.com/Deeksha24rK/Git-Practice-Repo.git
 git branch -M main
 git push -u origin main
 
-commit1
+commit2
